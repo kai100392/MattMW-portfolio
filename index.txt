@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Matthew Williams
+Matthew Williams
 Web developer
 
 Show Contacts
